@@ -1,0 +1,17 @@
+{
+  "name": "MToken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "chain": "pnpm --filter=./packages/hardhat run chain"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">14",
+    "pnpm": ">7"
+  }
+}
